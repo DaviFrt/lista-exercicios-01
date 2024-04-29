@@ -192,7 +192,7 @@ console.log(`A média ponderada das notas é: ${sumOfNotes / sumOfWeights}`);
 let numberOfPrimeNumbers = 0
 let numberToVerify = 101
 
-while(numberOfPrimeNumbers <= 50) {
+while(numberOfPrimeNumbers < 50) {
   let divider = 2;
   let isPrimeNumber = true;
 
